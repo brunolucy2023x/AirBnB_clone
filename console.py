@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# console.py
+# Bruno Okoth
 """Defines the HBnB console."""
 import cmd
 import re
